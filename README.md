@@ -5,24 +5,19 @@
 
 This was split into 2 parts.
 
-1. LQR to follow a circular trajectory $\sqrt{3x-1}+(1+x)^2$
+1. Using a control $u \in \{-4,0,4\}$
 
 
-https://user-images.githubusercontent.com/103215628/206934989-2a56031a-2120-4a70-9b79-bb32bf1cab50.mp4
-
-
-
-
-2. iLQR to reach a vertical orientation
-
-
-https://user-images.githubusercontent.com/103215628/206934996-5d22613e-240c-4be1-a78a-5bd2bf0e0fd3.mp4
+https://user-images.githubusercontent.com/103215628/211213688-8f4e8968-ff2b-4a1c-97df-1cbd8688c732.mp4
 
 
 
 
-3. iLQR to perform a full flip
 
 
-https://user-images.githubusercontent.com/103215628/206935000-e2d766c5-cfae-447c-9df0-12e0c0361216.mp4
+2. Using a control $u \in \{-5,0,5\}$
+
+
+https://user-images.githubusercontent.com/103215628/211213710-167d5bf0-6a40-408e-b888-01766fe2215b.mp4
+
 
