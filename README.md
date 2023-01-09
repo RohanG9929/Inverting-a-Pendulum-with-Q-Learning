@@ -1,4 +1,4 @@
-# Inverting-a-Pendulum-with-Q-Learning
+# Inverting a Pendulum with Q-Learning
  
 ### [Project Page](https://rohang9929.github.io/ilqr/) | 
 
